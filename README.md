@@ -1,0 +1,2 @@
+# Analysing-simple-algorithms
+CAB301 Assignment 2. This report summarises the outputs of two algorithms intended to find the distance between the two closest elements in an array of values using various experiments. The second algorithm claims to be a more efficient modernization of the first and so this report serves to confirm or deny whether it is indeed an improvement. Factors such as the number of basic operations, execution time and scalability/efficiency were coded and executed in the C++ platform CodeBlocks. 
